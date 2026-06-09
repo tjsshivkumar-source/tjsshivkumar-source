@@ -1,16 +1,19 @@
-## Hi there 👋
+## Tejas Shivkumar
 
-<!--
-**tjsshivkumar-source/tjsshivkumar-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and growth focused fidgeter at the intersection of AI, fashion, and IP legal tech. MSc Computing @ Imperial College London; Previously Biology (epidemiology) + Economics @ UChicago. LA/London-based. 
 
-Here are some ideas to get you started:
+I enjoy tackling legal and consumer problems with prototyped + shipped products! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+
+**[SynMuse](https://github.com/tjsshivkumar-source/SynMuse)**: AI consumer simulation for fashion. Chat with synthetic consumer personas grounded in online fashion discourse to validate a design before committing to production. ([demo](https://youtu.be/XZkWSzPBJFU))
+*Next.js · Flask · Claude API · OpenAI embeddings · ChromaDB*
+
+**[PatAlert](https://github.com/tjsshivkumar-source/patalert)**: AI design-patent risk scanner. Upload a product image, and check against live USPTO design-patent data to flags infringement risk before committing to product development. ([live](https://patalert.vercel.app/) · [demo](https://www.youtube.com/watch?v=xKIynnMVOB4))
+*Next.js 15 · TypeScript · Claude Vision · USPTO API*
+
+### Current Work:
+Writing my MSc thesis on generating 3D models from 2D design-patent drawings (Zero123 + Gaussian splatting). 
+
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/tejas-shivkumar-5880931a9/) · [email](mailto:tes25@ic.ac.uk) 
