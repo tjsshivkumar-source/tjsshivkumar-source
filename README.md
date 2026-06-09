@@ -12,7 +12,7 @@ I enjoy tackling legal and consumer problems with prototyped + shipped products!
 **[PatAlert](https://github.com/tjsshivkumar-source/patalert)**: AI design-patent risk scanner. Upload a product image, and check against live USPTO design-patent data to flag infringement risk before committing to product development. ([live](https://patalert.vercel.app/) · [demo](https://www.youtube.com/watch?v=xKIynnMVOB4))
 *Next.js 15 · TypeScript · Claude Vision · USPTO API*
 
-### Current Work:
+### Current Work
 Writing my MSc thesis on generating 3D models from 2D design-patent drawings (Zero123 + Gaussian splatting). 
 
 ### Reach me
